@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Allow the notebook
+!get-to-know-a-dataset.ipynb
+
+# Allow this gitignore
+!.gitignore
